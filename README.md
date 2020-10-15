@@ -1,5 +1,5 @@
 # youbot-Pick-and-Place-with-PI-Control
-## Conducted as the Capstone Project of Modern Robotics: Mechanics, Planning, and Control Specialization by Northwestern University, offered on Coursera.
+### Conducted as the Capstone Project of Modern Robotics: Mechanics, Planning, and Control Specialization by Northwestern University, offered on Coursera.
 
 The project aims to make the mobile manipulator youBot pick a cube from an initial configuration and transfer it to a desired location before dropping it off.
 
