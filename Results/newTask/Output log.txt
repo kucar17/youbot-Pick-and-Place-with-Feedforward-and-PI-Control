@@ -1,0 +1,3 @@
+Generating the animation file.
+Plotting the Error Graph
+Elapsed time is 2.707724 seconds.

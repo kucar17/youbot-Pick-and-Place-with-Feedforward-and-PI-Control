@@ -1,0 +1,1 @@
+Currently working on joint limits to avoid singularities and self collisions. Also trying to find the best gains to make the system perform well with all inputs.
