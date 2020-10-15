@@ -6,3 +6,6 @@ The project aims to make the mobile manipulator youBot pick a cube from an initi
 The program uses 3 separate functions to achieve this. TrajectoryGenerator first creates a reference trajectory for the end-effector of the youBot. After an initial configuration
 is selected, FeedbackControl function calculates the error between the actual and the reference configuration and finds the control vector to be commanded. Then the NextState
 function calculates the new configuration for the robot in order to move the robot towards the objective.
+
+![GitHub Logo](http://hades.mech.northwestern.edu/images/thumb/5/57/Youbot-capstone.png/384px-Youbot-capstone.png)
+Format: ![Alt Text](url)
