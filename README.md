@@ -24,10 +24,8 @@ Feedforward PI with Kp = 62, Ki = 19
 
 With the 100 and 210 being Kp and Ki gains, respectively, an example response to a large initial configuration error looks like this:
 
-![System response when Kp = 100 and Ki = 210](https://github.com/kucar17/
-youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/ehee.gif?raw=true)
+![System response when Kp = 100 and Ki = 210](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/ehee.gif?raw=true)
 
 With gains which are not tuned very well, system may behave oscillatory or even unstable. An oscillatory response looks like this:
 
-![Oscillatory system response](https://github.com/kucar17/
-youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/eheee.gif?raw=true)
+![Oscillatory system response](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/eheee.gif?raw=true)
