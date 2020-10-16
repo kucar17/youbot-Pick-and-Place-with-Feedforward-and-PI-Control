@@ -32,4 +32,4 @@ With gains which are not tuned very well, system may behave oscillatory or even 
 
 An example run of the program looks like this on simulation environment (Coppelia Sim):
 
-![Robot doing its job](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/newTask/newTask.mp4)
+![Robot doing its job](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/newTask/newTask.gif)
