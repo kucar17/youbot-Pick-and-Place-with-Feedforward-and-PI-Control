@@ -29,3 +29,7 @@ With the 100 and 210 being Kp and Ki gains, respectively, an example response to
 With gains which are not tuned very well, system may behave oscillatory or even unstable. An oscillatory response looks like this:
 
 ![Oscillatory system response](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/eheee.gif?raw=true)
+
+An example run of the program looks like this on simulation environment (Coppelia Sim):
+
+![Robot doing its job](https://github.com/kucar17/youbot-Pick-and-Place-with-Feedforward-and-PI-Control/blob/master/Results/newTask/newTask.mp4)
